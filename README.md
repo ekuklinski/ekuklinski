@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Software engineer in training
+Soon to start Tech Elevator's in-person bootcamp in Columbus, OH
+Bootcamp duration: 14 weeks
+Bootcamp start date: January 15, 2024
